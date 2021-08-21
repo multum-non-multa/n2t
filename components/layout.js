@@ -4,8 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'N2T Supplement'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'A N2T Backgrounder'
+export const siteTitle = 'n2t Supplement'
 
 export default function Layout({ children, home }) {
     return (
