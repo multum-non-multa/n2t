@@ -1,3 +1,3 @@
 # A Nand-2-Tetris Backgrounder
 
-Deployed as [a vercel page](https://multum-non-multa-n2t.vercel.app/)
+Deployed at [nand2tetris dot dev](https://www.nand2tetris.dev/)
